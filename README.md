@@ -1,5 +1,7 @@
 # 💻 Amazon Laptop Price Prediction (Machine Learning Project)
 
+🔗 Repository: https://github.com/Saikoushik14/amazon_laptop_price_prediction_tekworks_task
+
 ## 📌 Project Overview
 
 This project focuses on predicting laptop prices using Machine Learning.  
@@ -23,7 +25,7 @@ Dataset File: `amazon_laptop_price_dataset.csv`
 - Rating
 - Price_USD
 
-### Target Variable:
+### 🎯 Target Variable:
 - Price_INR (Converted from USD)
 
 ---
@@ -46,7 +48,7 @@ Dataset File: `amazon_laptop_price_dataset.csv`
 
 - Linear Regression
 
-The model was trained using the processed dataset and evaluated using standard regression metrics.
+The model was trained on the processed dataset and evaluated using standard regression metrics.
 
 ---
 
@@ -56,7 +58,7 @@ The model was trained using the processed dataset and evaluated using standard r
 - Mean Absolute Error (MAE)
 - R-squared (R² Score)
 
-### 🎯 Final R² Score:
+### 🚀 Final R² Score:
 **0.94**
 
 This means the model explains approximately **94% of the variance** in laptop prices, indicating strong predictive performance.
@@ -65,13 +67,13 @@ This means the model explains approximately **94% of the variance** in laptop pr
 
 ## 📈 Visualization
 
-An "Actual vs Predicted Price" scatter plot was generated to visually evaluate model performance.
+An **Actual vs Predicted Price** scatter plot was generated to visually evaluate model performance.
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python
+- Python (3.x)
 - NumPy
 - Pandas
 - Matplotlib
@@ -85,19 +87,19 @@ An "Actual vs Predicted Price" scatter plot was generated to visually evaluate m
 
 1. Clone the repository:
 
-   ```
-   git clone <your-repository-link>
+   ```bash
+   git clone https://github.com/Saikoushik14/amazon_laptop_price_prediction_tekworks_task.git
    ```
 
 2. Install required libraries:
 
-   ```
+   ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
    ```
 
 3. Open the notebook:
 
-   ```
+   ```bash
    jupyter notebook amazon_laptop_price_prediction1.ipynb
    ```
 
@@ -108,7 +110,7 @@ An "Actual vs Predicted Price" scatter plot was generated to visually evaluate m
 ## 📁 Project Structure
 
 ```
-amazon-laptop-price-prediction/
+amazon_laptop_price_prediction_tekworks_task/
 │
 ├── amazon_laptop_price_dataset.csv
 ├── amazon_laptop_price_prediction1.ipynb
@@ -119,7 +121,7 @@ amazon-laptop-price-prediction/
 
 ## 👨‍💻 Author
 
-Sai Koushik Kasula  
+**Sai Koushik Kasula**  
 Machine Learning & Data Science Enthusiast  
 
 ---
